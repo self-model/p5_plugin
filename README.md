@@ -1,2 +1,2 @@
 # p5_plugin
- a basic p5 plugin
+ A basic jsPsych plugin that uses p5.js
